@@ -1,0 +1,4 @@
+01-04-2024 17:12:01 - Undefined constant Eshop::db in C:\Users\Public\borisov\courses\1c\eshop\core\Eshop.class.php:13
+01-04-2024 17:33:38 - Eshop::getItemsFromCatalog(): Return value must be of type iterable, none returned in C:\Users\Public\borisov\courses\1c\eshop\core\Eshop.class.php:20
+05-04-2024 12:11:01 - syntax error, unexpected 'init' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in C:\Users\Public\ithub\php\eshop\core\Basket.class.php:9
+05-04-2024 12:15:49 - Call to undefined method Basket::init() in C:\Users\Public\ithub\php\eshop\core\init.php:45
